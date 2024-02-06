@@ -6,10 +6,11 @@
   <img src="https://emoji.discadia.com/emojis/8d924913-6731-4e12-ae77-096f9fe0d811.gif">
 </div>
 
-### Objetivos
+### Formações
 
-- Finalizar o Ensino Médio.
-- Me formar no curso de Desenvolvimento de Sistemas na ETEC Guaianazes.
+- Tec Desenvolvimento de Sistemas na ETEC Guaianazes.
+
+- Analise e desenvolvimento de sistemas na UNIP - 1/4
 
 <br/>
 > “A persistência é o caminho do êxito.” – Charlie Chaplin
