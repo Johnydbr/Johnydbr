@@ -10,7 +10,7 @@
 
 - Tec Desenvolvimento de Sistemas na ETEC Guaianazes.
 
-- Analise e desenvolvimento de sistemas na UNIP - 2/4
+- Analise e desenvolvimento de sistemas na UNIP - 3/4
 
 <br/>
 > “A persistência é o caminho do êxito.” – Charlie Chaplin
