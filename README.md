@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=36454F"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A7C7E7&size=35&center=true&vCenter=true&width=1000&lines=Bem+vindo+ao+meu+perfil!;Me+Chamo+Johny+David+🫡;Tenho+17+Anos;Moro+em+São+Paulo,+Brasil;Estudante+da+ETEC;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A7C7E7&size=35&center=true&vCenter=true&width=1000&lines=Bem+vindo+ao+meu+perfil!;Me+Chamo+Johny+David+🫡;Tenho+19+Anos;Moro+em+São+Paulo,+Brasil;Estudante+da+UNIP;)](https://git.io/typing-svg)
 
 <div width="100%" align="center">
   <img src="https://emoji.discadia.com/emojis/8d924913-6731-4e12-ae77-096f9fe0d811.gif">
