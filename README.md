@@ -17,11 +17,12 @@
 
 ### Contato
 
-<a href="https://www.instagram.com/johnydbr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=0D1117" target="_blank"></a>
+<a href="https://www.linkedin.com/in/johny-david" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2
+" target="_blank"></a>
 
 
 
-### Em Aprendizado:
+### Conhecimentos:
 
 ![HTML5](https://img.shields.io/badge/html5-0D1117.svg?logo=html5&logoColor=E34F26&labelColor=0D1117&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/css3-0D1117.svg?logo=css3&logoColor=1572B6&labelColor=0D1117&style=for-the-badge)
