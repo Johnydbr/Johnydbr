@@ -17,8 +17,7 @@
 
 ### Contato
 
-<a href="https://www.linkedin.com/in/johny-david" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2
-" target="_blank"></a>
+<a href="https://www.linkedin.com/in/johny-david" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" target="_blank"></a>
 
 
 
