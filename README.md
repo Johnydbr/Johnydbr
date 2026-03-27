@@ -8,9 +8,12 @@
 
 ### Formações
 
-- Tec Desenvolvimento de Sistemas na ETEC Guaianazes.
+- Pós-Graduação em Arquitetura De Software, FIAP.
 
-- Analise e desenvolvimento de sistemas na UNIP - 4/4
+- Analise e desenvolvimento de sistemas, UNIP.
+
+- Tec Desenvolvimento de Sistemas, ETEC.
+
 
 <br/>
 > “A persistência é o caminho do êxito.” – Charlie Chaplin
