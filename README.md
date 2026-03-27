@@ -8,11 +8,11 @@
 
 ### Formações
 
-- Pós-Graduação em Arquitetura De Software, FIAP.
+- Pós-Graduação em Arquitetura De Software - FIAP.
 
-- Analise e desenvolvimento de sistemas, UNIP.
+- Analise e desenvolvimento de sistemas - UNIP.
 
-- Tec Desenvolvimento de Sistemas, ETEC.
+- Tec Desenvolvimento de Sistemas - ETEC.
 
 
 <br/>
